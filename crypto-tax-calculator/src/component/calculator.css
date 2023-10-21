@@ -1,0 +1,48 @@
+.calculator-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px;
+    margin-left: 450px;
+    margin-right: 400px;
+  }
+  
+  .row {
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0;
+  }
+  
+  .column {
+    flex: 1;
+    margin-right: 5px;
+  }
+  .column1 {
+    flex: 1;
+    margin-right: 14px;
+  }
+
+  .column2 {
+    flex: 1;
+  }
+
+  .column3 {
+    flex: 1;
+    margin-right: 0px;
+  }
+  
+  .dropdown {
+    padding: 15px;
+    padding-left: 80px;
+    padding-right: 80px;
+    border-radius: 8px
+  }
+
+  .inputbox {
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 8px
+  }
+  
+  
